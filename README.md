@@ -1,13 +1,13 @@
-# v2s
 
-# V2F
+Introduction
+SSTap is used to "socksify" TCP and UDP connections at the network layer.
 
-server ip
+It implements a TUN virtual network interface which accepts all incoming TCP and UDP, 
+and forwards them through a HTTP, SOCKS4, SOCKS 5, SHADOWSOCKS server, 
+without any need for application support. 
 
-ss.us.sshmax.net
+It can be forward TCP, UDP data.
 
-57478
+It is very suitable for gamers to use.
 
-syCiJl3nb8OD
-
-CHACHA20-IETF-POLY1305
+Enjoy gaming! Enjoy SSTap!
